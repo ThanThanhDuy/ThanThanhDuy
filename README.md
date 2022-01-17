@@ -26,6 +26,8 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fffff)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanthanhduy&show_icons=true&theme=dracula)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
