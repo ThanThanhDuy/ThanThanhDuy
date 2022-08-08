@@ -34,4 +34,5 @@
 <a href="mailto:thanthanhduy.work@gmail.com"><img src="https://img.shields.io/badge/-thanthanhduy.work@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/ThanThanhDuy.GBoo"><img src="https://img.shields.io/badge/-@thanthanhduy.gboo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/49GBoo"><img src="https://img.shields.io/badge/-@49GBoo-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=thanthanhduy&label=Profile%20views&color=a2db83&style=flat" alt="thanthanhduy" />
 </p>
