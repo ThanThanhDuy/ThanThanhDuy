@@ -23,16 +23,21 @@
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=ea2845)&nbsp;
-![GitHub](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=4d9942)&nbsp;\
+![GitHub](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=4d9942)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fffff)&nbsp;\
+![GitHub](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma&logoColor=fff)&nbsp;
+![GitHub](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1967d2)&nbsp;
+![GitHub](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=45d1fd)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=16ade7)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design&logoColor=1677ff)&nbsp;\
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23000000.svg?style=flat&logo=adobe%20xd&logoColor=fffff)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fffff)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fffff)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Visual Studio Code](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design&logoColor=1677ff)&nbsp;
+![GitHub](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=fff)&nbsp;
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanthanhduy&show_icons=true&theme=dracula)
 
